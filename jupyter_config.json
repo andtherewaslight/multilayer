@@ -1,0 +1,7 @@
+{
+  "Voila": {
+    "tornado_settings": {
+      "allow_origin": "*"
+    }
+  }
+}
