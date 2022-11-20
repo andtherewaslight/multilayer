@@ -4,9 +4,5 @@
       "Content-Security-Policy":"frame-ancestors self *"
     }
   }
-  "VoilaConfiguration": {
-      "theme": "dark",
-      "template": "gridstack"
-  }
 }
 
