@@ -1,5 +1,5 @@
 {
-  "Voila": {
+  "VoilaConfiguration": {
     "tornado_settings": {
       "allow_origin": "*"}
     
