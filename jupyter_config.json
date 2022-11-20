@@ -1,12 +1,6 @@
 {
-  "Voila": {
-    "tornado_settings": {
-      "Content-Security-Policy":"frame-ancestors self *"
-    }
-  }
   "VoilaConfiguration": {
-      "theme": "dark",
-      "template": "gridstack"
+      "theme": "dark"
   }
 }
 
