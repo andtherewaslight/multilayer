@@ -3,4 +3,3 @@ ipympl
 numpy
 scipy
 matplotlib
-voila
