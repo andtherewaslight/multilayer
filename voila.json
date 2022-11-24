@@ -1,8 +1,0 @@
-{
-  "Voila": {
-    "tornado_settings": {
-      "Content-Security-Policy":"frame-ancestors self *"
-    }
-  }
-}
-
