@@ -3,5 +3,6 @@ ipympl
 numpy
 scipy
 matplotlib
+ipykernel
 voila
 
