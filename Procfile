@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --Voila.ip=0.0.0.0 multilayer_heroku.ipynb
+web: voila --Voila.tornado_settings='{"headers":{"Content-Security-Policy":"frame-ancestors self *" }}' --port=$PORT --Voila.ip=0.0.0.0 --no-browser --strip_sources=True --enable_nbextensions=True multilayer_heroku.ipynb
